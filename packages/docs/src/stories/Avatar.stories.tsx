@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/fabiof2x.png',
     alt: 'Fábio Dias',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
