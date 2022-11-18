@@ -1,0 +1,2 @@
+import{A as t}from"./index.f047a542.js";import"./index.761259d1.js";import"./iframe.530c9513.js";import"./index.98ae2c47.js";import"./jsx-runtime.eed7c2dd.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/fabiof2x.png",alt:"F\xE1bio Dias"},argTypes:{src:{control:{type:"text"}}}},c={},m={args:{src:void 0}},e=["Primary","WithFallback"];export{c as Primary,m as WithFallback,e as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.30da1dd9.js.map
